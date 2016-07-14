@@ -2,13 +2,13 @@
 	INGAR'S SOUND EFFECTS PACK
 
 	http://ingar.satgnu.net/
-	ingar@telenet.be
+	ingar@osirion.org
 
 	This is a collection of sound effects based on recordings
 	I created through a number of methods: some were recorded
 	with a PC headset microphone, most were recorded using
 	a digital audio recorder, and few were generated with
-	digital synthesizers.
+	digital synthesizer software.
 
 	These sound effects are availble under the terms and conditions of the
 	Do What The Fuck You Want To Public License (WTFPL). The full text 
